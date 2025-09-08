@@ -5,3 +5,5 @@ pyzbar
 pandas
 reportlab
 fpdf
+img2pdf
+pdfkit
